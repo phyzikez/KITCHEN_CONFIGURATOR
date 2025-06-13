@@ -52,3 +52,4 @@ UI Logic:
 <br>•	Splash screen represented by a progress bar that fills dynamically according to core mesh information loading progress
 
 The demonstration of working with app-scene is shown in attached video.
+<br>https://drive.google.com/file/d/1Yv1thyl1_uyKOU5w-YW1lrpGviW7l7rI/view?usp=drive_link
